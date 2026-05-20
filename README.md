@@ -19,7 +19,6 @@ Since there are 12 months in one year, multiplying the age by 12 gives the user'
 - Accepts user input
 - Converts years into months
 - Displays results in a readable format
-- Beginner-friendly Python project
 
 ## Technologies Used
 
